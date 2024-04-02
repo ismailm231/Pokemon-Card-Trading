@@ -69,5 +69,4 @@ Lookup: Prompts user to enter card name (can either be partial or full name) and
 
 Deposit: Prompts the user to enter the amount in USD to add to the balance. Then displays the updated balance.
 
-Shutdown: Terminates all connected clients and server but only the root user can execute this command.
-![image](https://github.com/ismailm231/Pokemon-Card-Trading/assets/143661705/a93534ff-1545-45ae-a60e-8e69b979813b)
+
