@@ -28,22 +28,6 @@ Running Instructions:
 •	g++ -o client client.cpp -std=c++11
 •	./client localhost or 127.0.0.1 can be used for starting the client.
 
-  
-
-
-Roles:
-
-Arshad: Documentation, Deposit, Who
-
-Bella: Lookup, List Changes
-
-Ismail: Testing, Login/log out , Shutdown functionality
-
-Ed: Thread management, code uniformity, bug fixing
-
-Project was completed using agile management and jira project timeline
-
-
 
 Description of Functionalities: 
 
